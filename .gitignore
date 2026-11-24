@@ -1,0 +1,11 @@
+backend/target/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.env
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+Thumbs.db
